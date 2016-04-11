@@ -1,0 +1,2 @@
+# skolenie
+Node.js školenie
